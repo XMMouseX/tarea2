@@ -1,0 +1,126 @@
+*{
+    margin: 0px;
+}
+
+.sombrero1
+{
+    background-color: blueviolet;
+    width: 350px;
+    height: 150px;
+    position: absolute;
+    top: 30px;
+    left: 650px;
+}
+
+.sombrero2
+{
+    background-color: blueviolet;
+    width: 700px;
+    height: 150px;
+    border-radius: 100%;
+    position: absolute;
+    top: 120px;
+    left: 460px;  
+}
+
+
+
+
+.cara
+{
+    background-color: red;
+    width: 450px;
+    height: 450px;
+    border-radius: 100%;
+    position: relative;
+    top: 180px;
+    left: 600px; 
+}
+
+.ojo1
+{
+    background-color: yellow;
+    width: 100px;
+    height: 100px;
+    border-radius: 100%;
+    position: absolute;
+    top: 100px;
+    left: 100px;
+}
+
+.ojo2
+{
+    background-color: yellow;
+    width: 100px;
+    height: 100px;
+    border-radius: 100%;
+    position: absolute;
+    top: 100px;
+    left: 260px;
+}
+
+.pupila1
+{
+    background-color: black;
+    width: 50px;
+    height: 50px;
+    border-radius: 100%;
+    position: absolute;
+    top: 25px;
+    left: 25px;
+}
+
+.boca
+{
+    background-color:yellowgreen;
+    width: 300px;
+    height: 100px;
+    border-radius: 100%;
+    position: absolute;
+    top: 260px;
+    left: 75px;
+}
+
+.boca2
+{
+    background-color: black;
+    width: 150px;
+    height: 50px;
+    border-radius: 100%;
+    position: absolute;
+    top: 25px;
+    left: 75px;
+}
+
+.corbata
+{
+    background-color: green;
+    width: 100px;
+    height: 100px;
+    border-radius: 100%;
+    position: relative;
+    top: 120px;
+    left: 775px;
+}
+
+.corbata2
+{
+    background-color: green;
+    width: 250px;
+    height: 100px;
+    border-radius: 100%;
+    position: absolute;
+    top: 0px;
+    left: 80px;
+}
+
+.corbata3
+{
+    background-color: green;
+    width: 250px;
+    height: 100px;
+    border-radius: 100%;
+    position: absolute;
+    top: 0px;
+    left: -220px; 
+}
